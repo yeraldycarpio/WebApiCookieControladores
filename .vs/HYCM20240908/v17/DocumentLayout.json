@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|e:\\hillary\\controladorescookie\\hycm20240908\\hycm20240908\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|solutionrelative:hycm20240908\\controllers\\matriculacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|e:\\hillary\\controladorescookie\\hycm20240908\\hycm20240908\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|solutionrelative:hycm20240908\\controllers\\notascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|e:\\hillary\\controladorescookie\\hycm20240908\\hycm20240908\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|solutionrelative:hycm20240908\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|e:\\hillary\\controladorescookie\\hycm20240908\\hycm20240908\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{64F7E7FA-A290-4A57-B471-71140DD15D1C}|HYCM20240908\\HYCM20240908.csproj|solutionrelative:hycm20240908\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotasController.cs",
+              "DocumentMoniker": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\NotasController.cs",
+              "RelativeDocumentMoniker": "HYCM20240908\\Controllers\\NotasController.cs",
+              "ToolTip": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\NotasController.cs",
+              "RelativeToolTip": "HYCM20240908\\Controllers\\NotasController.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAABCwB0AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:14:19.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MatriculaController.cs",
+              "DocumentMoniker": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\MatriculaController.cs",
+              "RelativeDocumentMoniker": "HYCM20240908\\Controllers\\MatriculaController.cs",
+              "ToolTip": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\MatriculaController.cs",
+              "RelativeToolTip": "HYCM20240908\\Controllers\\MatriculaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T23:09:54.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HYCM20240908\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HYCM20240908\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswDkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T17:32:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Program.cs",
+              "RelativeDocumentMoniker": "HYCM20240908\\Program.cs",
+              "ToolTip": "E:\\Hillary\\ControladoresCookie\\HYCM20240908\\HYCM20240908\\Program.cs",
+              "RelativeToolTip": "HYCM20240908\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T16:53:11.746Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
