@@ -35,13 +35,13 @@ namespace HYCM20240908.Controllers
 
         // POST api/<MatriculaController>
         [HttpPost]
-        public IActionResult Post(int id, string nombre, string lastname, int edad, DateTime fecha)
+        public IActionResult Post(int id, string nombre, string apellido, int edad, DateTime fecha)
         {
             var matricula = new
             {
                 id,  // Usando el id proporcionado
                 nombre,
-                lastname,
+                apellido,
                 edad,
                 fecha
             };
@@ -50,7 +50,7 @@ namespace HYCM20240908.Controllers
         }
 
         [HttpPut("{id}")]
-        public IActionResult Put(int id, string nombre, string lastname, int edad, DateTime fecha)
+        public IActionResult Put(int id, string nombre, string apellido, int edad, DateTime fecha)
         {
             // Encuentra el índice del objeto en la lista que coincide con el id
             var index = data.FindIndex(m => m.GetType().GetProperty("id").GetValue(m).Equals(id));
@@ -66,7 +66,7 @@ namespace HYCM20240908.Controllers
             {
                 id,
                 nombre,
-                lastname,
+                apellido,
                 edad,
                 fecha
             };
